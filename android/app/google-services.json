@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30863411842",
+    "project_id": "grinta-9c35e",
+    "storage_bucket": "grinta-9c35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30863411842:android:e9bf2e3a52b8f985bc029b",
+        "android_client_info": {
+          "package_name": "com.example.grinta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVZ-0ohYfQVBHld8asaBhsXyVyndFIUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
